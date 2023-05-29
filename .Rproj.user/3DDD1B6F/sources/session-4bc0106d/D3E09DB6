@@ -1,0 +1,26 @@
+{
+    "id": "D3E09DB6",
+    "path": "~/Projects/ncaa_softball_postseason_predictions/betting_model/predict_supers.R",
+    "project_path": "betting_model/predict_supers.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1685043285786.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "181,73",
+        "scrollLine": "159"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1685289560,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1685289560102,
+    "read_only": false,
+    "read_only_alternatives": []
+}
